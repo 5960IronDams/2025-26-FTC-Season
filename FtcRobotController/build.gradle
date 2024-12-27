@@ -19,6 +19,7 @@ android {
     }
 
     compileSdkVersion 30
+    buildToolsVersion "36.0.0-rc3"
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
